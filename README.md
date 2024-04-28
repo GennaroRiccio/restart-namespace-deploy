@@ -1,4 +1,4 @@
-![Logo](.\asset\logo2.png)
+![Logo](./asset/logo2.png)
 
 # Restart Namespace Deploy
 
@@ -18,7 +18,7 @@ Install prerequisites
 
 Execute .\restart-namespace-deploy.ps1 and select namespace to restart.
 
-![Img](.\asset\img01.png)
+![Img](./asset/img01.png)
 
 All namespace with filter:
 
