@@ -28,7 +28,7 @@ Execute with namespace:
 ```powershell
 .\restart-namespace-deploy application-namespace
 ```
-
+![Img](./asset/img02.png)
 
 All namespace with filter:
 
