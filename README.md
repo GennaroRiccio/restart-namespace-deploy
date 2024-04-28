@@ -7,7 +7,7 @@ If you need to automate the restart of a namespace deployment for whatever reaso
 ## Installation
 
 Install prerequisites
-
+#### Kubectl
 #### Powershell v7+
 #### PwshSpectreConsole
 ```powershell
