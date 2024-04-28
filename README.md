@@ -24,6 +24,13 @@ All namespace with filter:
 
 .\restart-namespace-deploy.ps1 all
 
+to filter namespace use file namespace_filter.txt
+
+## Note
+This is a small and simple utility using kubectl commands. Remember to use the correct context in the case of multi clusters
+
+
+# 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
