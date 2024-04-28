@@ -16,9 +16,19 @@ Install prerequisites
 
 ## Documentation
 
-Execute .\restart-namespace-deploy.ps1 and select namespace to restart.
+Execute with select namespace:
 
+```powershell
+.\restart-namespace-deploy 
+```
 ![Img](./asset/img01.png)
+
+Execute with namespace:
+
+```powershell
+.\restart-namespace-deploy application-namespace
+```
+
 
 All namespace with filter:
 
@@ -28,7 +38,6 @@ to filter namespace use file namespace_filter.txt
 
 ## Note
 This is a small and simple utility using kubectl commands. Remember to use the correct context in the case of multi clusters
-
 
 # 
 
